@@ -11,6 +11,7 @@
 #subconteiner-menu{
     color: 666666;
     font-family: Arial, Helvetica, sans-serif;
+
 }
 .menu{
     margin:0 auto;
@@ -66,13 +67,17 @@ h2{
 }
 .box{
     width: 440px;
-    border: solid #cac8c8;
     background-color: #f5f3f3;
+    border-top: 2px solid  #cac8c8  ;
+    border-right: 2px solid  #cac8c8 ;
+    border-bottom: 2px solid  #cac8c8 ;
+    border-left: 2px solid  #cac8c8;
+    height: 340px;
+    float: left;
+    display: inline;
 }
 
 
-
-
 /****************
-      content end
+  content end
 *****************/
