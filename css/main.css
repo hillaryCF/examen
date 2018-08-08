@@ -92,11 +92,12 @@ h4{
     border-left: 2px solid  #cac8c8;
     margin: 0;
 }
-box + box2{
-    margin-left: 65px;
-} 
 
 
+span{
+    color: #dc4155;
+   
+}
 /****************
   content end
 *****************/
