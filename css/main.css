@@ -65,8 +65,13 @@ p{
 h2{
     color: #d3001c;
 }
+h4{
+    color: #707070; 
+   font-family:Arial, Bold , sans-serif;
+
+}
 .box{
-    width: 440px;
+    width: 450px;
     background-color: #f5f3f3;
     border-top: 2px solid  #cac8c8  ;
     border-right: 2px solid  #cac8c8 ;
@@ -75,7 +80,21 @@ h2{
     height: 340px;
     float: left;
     display: inline;
+    margin-left: 15px;
+    margin: 0;
+    
 }
+.box2{
+    background-color: #f5f3f3;
+    border-top: 2px solid  #cac8c8  ;
+    border-right: 2px solid  #cac8c8 ;
+    border-bottom: 2px solid  #cac8c8 ;
+    border-left: 2px solid  #cac8c8;
+    margin: 0;
+}
+box + box2{
+    margin-left: 65px;
+} 
 
 
 /****************
